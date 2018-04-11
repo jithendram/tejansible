@@ -4,4 +4,4 @@
   connection: local
 
   roles:
-    - role: Instance_Launch
+#    - role: Instance_Launch
