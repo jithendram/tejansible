@@ -3,7 +3,7 @@
 keypair: Docker_CloudSaga
 instance_type: t2.micro
 security_group: launch-wizard-12
-image: ami-8f78c2f7
+image: ami-8b1886f3
 region: us-west-2
 subnet: subnet-4fe3c507
 privateip: 192.168.1.9
