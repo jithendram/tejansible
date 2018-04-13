@@ -2,8 +2,8 @@
 # vars file for ansible-role-sqlserver
 keypair: Docker_CloudSaga
 instance_type: t2.micro
-security_group: launch-wizard-12
-image: ami-8b1886f3
+security_group: sg-04185b7b
+image: ami-d874e0a0
 region: us-west-2
-subnet: subnet-4fe3c507
-privateip: 192.168.1.9
+subnet: subnet-eeb643a5
+privateip: 172.31.44.30
