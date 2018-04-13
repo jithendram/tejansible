@@ -1,6 +1,6 @@
 ---
 # vars file for ansible-role-sqlserver
-keypair: Docker_CloudSaga
+keypair: tower
 instance_type: t2.micro
 security_group: default
 image: ami-d874e0a0
